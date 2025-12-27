@@ -23,3 +23,6 @@ Local → GitHub → AWS EC2 → Docker → Nginx
 
 ## Output
 Static website successfully running inside Docker container on AWS EC2.
+
+##ScreenSHot of Website Output
+<img width="1360" height="681" alt="image" src="https://github.com/user-attachments/assets/5a70a0a8-8bda-42c3-aaaa-994828fc6c72" />
